@@ -6,7 +6,7 @@
 </div>
 
 
-<div align="center">
+</div>
 
 ## 📜Content
 
