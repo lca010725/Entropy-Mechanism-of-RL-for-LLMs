@@ -10,10 +10,18 @@
 
 ## 📜Content
 
-### 👀 Introduction
+## 👀 Introduction
 ---
 
-### 🚀 Papers
+## Keywords Convention
+
+![](https://img.shields.io/badge/Clip-Higher-blue) Abbreviation
+
+![](https://img.shields.io/badge/AAAI2026-orange) Conference
+
+![](https://img.shields.io/badge/Reconstruction-lightgray) Main Features
+
+## 🚀 Papers
 
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)![](https://img.shields.io/badge/abs-2025.03-red)
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)![](https://img.shields.io/badge/abs-2025.05-red)
