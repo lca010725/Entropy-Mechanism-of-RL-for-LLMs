@@ -31,7 +31,8 @@
 - [MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://arxiv.org/abs/2506.13585) [[code](https://github.com/MiniMax-AI/MiniMax-M1)] ![](https://img.shields.io/badge/abs-2025.06-orange) ![](https://img.shields.io/badge/CISPO-lightgray)
 - [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758) ![](https://img.shields.io/badge/AAAI2026-orange)
 - [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](https://arxiv.org/abs/2507.15778) [[code](https://github.com/wizard-III/ArcherCodeR)] ![](https://img.shields.io/badge/abs-2025.07-orange)
-- [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) [[code](https://empgseed-seed.github.io/)] ![](https://img.shields.io/badge/abs-2025.09-orange) (https://img.shields.io/badge/EMPG-lightgray)
+- [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) [[code](https://empgseed-seed.github.io/)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/EMPG-lightgray)
+- [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping](https://arxiv.org/abs/2510.18927) [[code](https://github.com/WooooDyy/BAPO)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/BAPO-lightgray)
 - [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) [[code](https://github.com/yk7333/EntroPIC)] ![](https://img.shields.io/badge/abs-2025.11-orange)
 
 
