@@ -24,6 +24,7 @@
 ## 🚀 Papers
 
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)![](https://img.shields.io/badge/abs-2025.03-orange) ![](https://img.shields.io/badge/Clip--Higher-blue)
+  *Qiying Yu, Zheng Zhang, Ruofei Zhu, Yufeng Yuan, Xiaochen Zuo, Yu Yue, Weinan Dai, Tiantian Fan, Gaohong Liu, Lingjun Liu, Xin Liu, Haibin Lin, Zhiqi Lin, Bole Ma, Guangming Sheng, Yuxuan Tong, Chi Zhang, Mofan Zhang, Wang Zhang, Hang Zhu, Jinhua Zhu, Jiaze Chen, Jiangjie Chen, Chengyi Wang, Hongli Yu, Yuxuan Song, Xiangpeng Wei, Hao Zhou, Jingjing Liu, Wei-Ying Ma, Ya-Qin Zhang, Lin Yan, Mu Qiao, Yonghui Wu, Mingxuan Wang*. [[project](https://dapo-sia.github.io/)]
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)![](https://img.shields.io/badge/abs-2025.05-orange)
   
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) ![](https://img.shields.io/badge/abs-2025.05-orange)
