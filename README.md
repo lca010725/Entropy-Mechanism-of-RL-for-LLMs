@@ -23,8 +23,8 @@
 
 ## 🚀 Papers
 
-- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476)![](https://img.shields.io/badge/abs-2025.03-orange) ![](https://img.shields.io/badge/Clip--Higher-blue) [[project](https://dapo-sia.github.io/)]
-- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312)![](https://img.shields.io/badge/abs-2025.05-orange)
+- [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476) [[project](https://dapo-sia.github.io/)] ![](https://img.shields.io/badge/abs-2025.03-orange) ![](https://img.shields.io/badge/Clip--Higher-blue) 
+- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) [[project](https://github.com/SkyworkAI/Skywork-OR1)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Adaptive Entropy Control-blue)
   
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) ![](https://img.shields.io/badge/abs-2025.05-orange)
 - [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758)![](https://img.shields.io/badge/AAAI2026-orange)
