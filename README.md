@@ -34,9 +34,10 @@
 - [GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](https://arxiv.org/abs/2508.04349) ![](https://img.shields.io/badge/abs-2025.08-orange) ![](https://img.shields.io/badge/GTPO_&_GRPO--S-lightgray)
 - [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) [[code](https://empgseed-seed.github.io/)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/EMPG-lightgray)
 - [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping](https://arxiv.org/abs/2510.18927) [[code](https://github.com/WooooDyy/BAPO)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/BAPO-lightgray)
+- [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2510.03222) [[code](https://github.com/CarlanLark/Lp-Reg)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/Lp--Reg-lightgray)
 - [Revisiting Entropy in Reinforcement Learning for Large Reasoning Models](https://arxiv.org/abs/2511.05993) ![](https://img.shields.io/badge/abs-2025.11-orange)
-- [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) [[code](https://github.com/yk7333/EntroPIC)] ![](https://img.shields.io/badge/abs-2025.11-orange)
-- [EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation](https://arxiv.org/abs/2511.12033) ![](https://img.shields.io/badge/abs-2025.11-orange)
+- [EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control](https://arxiv.org/abs/2511.15248) [[code](https://github.com/yk7333/EntroPIC)] ![](https://img.shields.io/badge/abs-2025.11-orange) ![](https://img.shields.io/badge/EntroPIC-lightgray)
+- [EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation](https://arxiv.org/abs/2511.12033) ![](https://img.shields.io/badge/abs-2025.11-orange) ![](https://img.shields.io/badge/EARL-lightgray)
 
 
 ### (Adaptive) KL/Entropy Regularization
