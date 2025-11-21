@@ -37,3 +37,7 @@
 
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) [[code](https://github.com/SkyworkAI/Skywork-OR1)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Adaptive_Entropy_Control-blue)
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) [[project](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/ProRL-lightgray)
+
+
+### Positive & Negative Sample 
+- [The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning](https://arxiv.org/abs/2506.01347) [[code](https://github.com/TianHongZXY/RLVR-Decomposed)] ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/PSR_&_NSR-lightgray)
