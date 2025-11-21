@@ -39,9 +39,13 @@
 
 ### KL/Entropy Loss Strategies
 
+- [T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651) ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Auxiliary_entropy_bonus-blue)
+- [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548) ![](https://img.shields.io/badge/abs-2025.03-orange)
 - [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) [[code](https://github.com/SkyworkAI/Skywork-OR1)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Adaptive_Entropy_Control-blue)
 - [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) [[code](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/ProRL-lightgray)
 
 
 ### Positive & Negative Sample 
+- [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/abs/2504.11343) ![](https://img.shields.io/badge/abs-2025.04-orange) ![](https://img.shields.io/badge/Reinforce--Rej-lightgray)
 - [The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning](https://arxiv.org/abs/2506.01347) [[code](https://github.com/TianHongZXY/RLVR-Decomposed)] ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/PSR_&_NSR-lightgray)
+- [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://arxiv.org/abs/2509.22611) [[code](https://github.com/junkangwu/QAE)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/QAE-lightgray)
