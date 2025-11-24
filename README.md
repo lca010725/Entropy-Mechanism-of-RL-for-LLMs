@@ -7,6 +7,7 @@
 
 
 </div>
+
 ## 👀 Introduction
 This repository contains a regularly updated paper list for **Entropy Mechanism in RL for LLMs**.
 
