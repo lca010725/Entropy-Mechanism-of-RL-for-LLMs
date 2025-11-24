@@ -5,7 +5,6 @@
 
 </div>
 
----
 >
 > 🙋 Please let us know if you find out a mistake or have any suggestions!
 > 
@@ -35,8 +34,6 @@ Various approached have been proposed to mitigate entropy collapse, including
     - [Entropy Regularization](#Entropy-Regularization)
     - [Token Clip or Advantage Modification](#Token-Clip-or-Advantage-Modification)
     - [Positive and Negative Sample ](#Positive-and-Negative-Sample )
-
----
 
 ## Keywords Convention
 
