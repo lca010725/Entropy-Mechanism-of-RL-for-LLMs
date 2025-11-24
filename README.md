@@ -1,16 +1,34 @@
 <div align="center">
 
-  <h2><b> Entropy Mechanism of RL for LLMs </b></h2>
-  <h4> An overview of research in Entropy Mechanism of Reinforcement Learning for Large Language Models</h4>
+  <h2><b> Entropy Mechanism in RL for LLMs </b></h2>
+  <h4> An overview of research in Entropy Mechanism in Reinforcement Learning for Large Language Models</h4>
 
 </div>
 
 
 </div>
+## 👀 Introduction
+This repository contains a regularly updated paper list for **Entropy Mechanism in RL for LLMs**.
+
+Reinforcement learning with verifiable rewards (RLVR) has shown great promise in enhancing the reasoning abilities of large language models (LLMs). 
+However, RLVR suffers from entropy collapse, causing premature convergence to suboptimal local minima and hinder further performance improvement.
+Various approached have been proposed to mitigate entropy collapse, including
+
+**1. Entropy Regularization**: incorporate entropy regularization to encourage exploration.
+**2. Entropy-based token clip or advantage modification**: modify token clip stategy or token advantage/reward based on entropy. 
+
+
+## Updates
+
+- 2025-11-21: 🚀 Entropy Mechanism in RL for LLMs Repo launched!
 
 ## 📜Content
+- [Keywords Convention](#keywords-convention)
+- [Papers](#papers)
+    - [Token clip/advantage modification](#token-clip/advantage-modification)
+    - [(Adaptive) KL/Entropy Regularization](#(Adaptive)-KL/Entropy-Regularization)
+    - [Positive & Negative Sample ](#Positive-&-Negative-Sample )
 
-## 👀 Introduction
 ---
 
 ## Keywords Convention
@@ -23,7 +41,7 @@
 
 ## 🚀 Papers
 
-### Token Constraint Strategies
+### Token clip/advantage modification
 
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476) [[code](https://dapo-sia.github.io/)] ![](https://img.shields.io/badge/abs-2025.03-orange) ![](https://img.shields.io/badge/Clip--Higher-blue) ![](https://img.shields.io/badge/DAPO-lightgray)
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) [[code](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Clip--Cov_&_KL--Cov-blue)
