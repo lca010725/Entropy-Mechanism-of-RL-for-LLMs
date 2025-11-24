@@ -27,9 +27,9 @@ Various approached have been proposed to mitigate entropy collapse, including
 ## 📜Content
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
-    - [Token clip/advantage modification](#Token-clip/advantage-modification)
-    - [KL/Entropy Regularization](#(Adaptive)-KL/Entropy-Regularization)
-    - [Positive and Negative Sample ](#Positive-&-Negative-Sample )
+    - [Entropy Regularization](#Entropy-Regularization)
+    - [Token Clip or Advantage Modification](#Token-Clip-or-Advantage-Modification)
+    - [Positive and Negative Sample ](#Positive-and-Negative-Sample )
 
 ---
 
@@ -43,7 +43,17 @@ Various approached have been proposed to mitigate entropy collapse, including
 
 ## 🚀 Papers
 
-### Token clip/advantage modification
+### Entropy Regularization
+
+- [T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651) ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Auxiliary_entropy_bonus-blue)
+- [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548) ![](https://img.shields.io/badge/abs-2025.03-orange)
+- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) [[code](https://github.com/SkyworkAI/Skywork-OR1)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Adaptive_Entropy_Control-blue)
+- [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) [[code](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/ProRL-lightgray)
+- [Rethinking Entropy Regularization in Large Reasoning Models](https://arxiv.org/abs/2509.25133) [[code](https://github.com/Linn3a/siren)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/SIREN-lightgray)
+- [Arbitrary Entropy Policy Optimization: Entropy Is Controllable in Reinforcement Fine-tuning](https://arxiv.org/abs/2510.08141) [[code](https://github.com/597358816/AEPO)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/AEPO-lightgray)
+
+
+### Token Clip or Advantage Modification
 
 - [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476) [[code](https://dapo-sia.github.io/)] ![](https://img.shields.io/badge/abs-2025.03-orange) ![](https://img.shields.io/badge/Clip--Higher-blue) ![](https://img.shields.io/badge/DAPO-lightgray)
 - [The Entropy Mechanism of Reinforcement Learning for Reasoning Language Models](https://arxiv.org/abs/2505.22617) [[code](https://github.com/PRIME-RL/Entropy-Mechanism-of-RL)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Clip--Cov_&_KL--Cov-blue)
@@ -52,6 +62,7 @@ Various approached have been proposed to mitigate entropy collapse, including
 - [Reasoning with Exploration: An Entropy Perspective](https://arxiv.org/abs/2506.14758) ![](https://img.shields.io/badge/AAAI2026-orange)
 - [Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR](https://arxiv.org/abs/2507.15778) [[code](https://github.com/wizard-III/ArcherCodeR)] ![](https://img.shields.io/badge/abs-2025.07-orange)
 - [GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](https://arxiv.org/abs/2508.04349) ![](https://img.shields.io/badge/abs-2025.08-orange) ![](https://img.shields.io/badge/GTPO_&_GRPO--S-lightgray)
+- [Proximal Supervised Fine-Tuning](https://arxiv.org/abs/2508.17784) ![](https://img.shields.io/badge/abs-2025.08-orange) ![](https://img.shields.io/badge/PSFT-lightgray)
 - [Harnessing Uncertainty: Entropy-Modulated Policy Gradients for Long-Horizon LLM Agents](https://arxiv.org/abs/2509.09265) [[code](https://empgseed-seed.github.io/)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/EMPG-lightgray)
 - [BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via Balanced Policy Optimization with Adaptive Clipping](https://arxiv.org/abs/2510.18927) [[code](https://github.com/WooooDyy/BAPO)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/BAPO-lightgray)
 - [Low-probability Tokens Sustain Exploration in Reinforcement Learning with Verifiable Reward](https://arxiv.org/abs/2510.03222) [[code](https://github.com/CarlanLark/Lp-Reg)] ![](https://img.shields.io/badge/abs-2025.10-orange) ![](https://img.shields.io/badge/Lp--Reg-lightgray)
@@ -61,15 +72,7 @@ Various approached have been proposed to mitigate entropy collapse, including
 - [EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation](https://arxiv.org/abs/2511.12033) ![](https://img.shields.io/badge/abs-2025.11-orange) ![](https://img.shields.io/badge/EARL-lightgray)
 
 
-### KL/Entropy Regularization
-
-- [T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651) ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Auxiliary_entropy_bonus-blue)
-- [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548) ![](https://img.shields.io/badge/abs-2025.03-orange)
-- [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) [[code](https://github.com/SkyworkAI/Skywork-OR1)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/Adaptive_Entropy_Control-blue)
-- [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models](https://arxiv.org/abs/2505.24864) [[code](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B)] ![](https://img.shields.io/badge/abs-2025.05-orange) ![](https://img.shields.io/badge/ProRL-lightgray)
-
-
-### Positive & Negative Sample 
+### Positive and Negative Sample 
 - [A Minimalist Approach to LLM Reasoning: from Rejection Sampling to Reinforce](https://arxiv.org/abs/2504.11343) ![](https://img.shields.io/badge/abs-2025.04-orange) ![](https://img.shields.io/badge/Reinforce--Rej-lightgray)
 - [The Surprising Effectiveness of Negative Reinforcement in LLM Reasoning](https://arxiv.org/abs/2506.01347) [[code](https://github.com/TianHongZXY/RLVR-Decomposed)] ![](https://img.shields.io/badge/NIPS2025-orange) ![](https://img.shields.io/badge/PSR_&_NSR-lightgray)
 - [Quantile Advantage Estimation for Entropy-Safe Reasoning](https://arxiv.org/abs/2509.22611) [[code](https://github.com/junkangwu/QAE)] ![](https://img.shields.io/badge/abs-2025.09-orange) ![](https://img.shields.io/badge/QAE-lightgray)
