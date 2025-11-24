@@ -27,9 +27,9 @@ Various approached have been proposed to mitigate entropy collapse, including
 ## 📜Content
 - [Keywords Convention](#keywords-convention)
 - [Papers](#papers)
-    - [Token clip/advantage modification](#token-clip/advantage-modification)
-    - [(Adaptive) KL/Entropy Regularization](#(Adaptive)-KL/Entropy-Regularization)
-    - [Positive & Negative Sample ](#Positive-&-Negative-Sample )
+    - [Token clip/advantage modification](#Token-clip/advantage-modification)
+    - [KL/Entropy Regularization](#(Adaptive)-KL/Entropy-Regularization)
+    - [Positive and Negative Sample ](#Positive-&-Negative-Sample )
 
 ---
 
@@ -61,7 +61,7 @@ Various approached have been proposed to mitigate entropy collapse, including
 - [EARL: Entropy-Aware RL Alignment of LLMs for Reliable RTL Code Generation](https://arxiv.org/abs/2511.12033) ![](https://img.shields.io/badge/abs-2025.11-orange) ![](https://img.shields.io/badge/EARL-lightgray)
 
 
-### (Adaptive) KL/Entropy Regularization
+### KL/Entropy Regularization
 
 - [T1: Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling](https://arxiv.org/abs/2501.11651) ![](https://img.shields.io/badge/ICML2025-orange) ![](https://img.shields.io/badge/Auxiliary_entropy_bonus-blue)
 - [An Empirical Study on Eliciting and Improving R1-like Reasoning Models](https://arxiv.org/abs/2503.04548) ![](https://img.shields.io/badge/abs-2025.03-orange)
