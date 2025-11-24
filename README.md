@@ -16,6 +16,7 @@ However, RLVR suffers from entropy collapse, causing premature convergence to su
 Various approached have been proposed to mitigate entropy collapse, including
 
 **1. Entropy Regularization**: incorporate entropy regularization to encourage exploration.
+
 **2. Entropy-based token clip or advantage modification**: modify token clip stategy or token advantage/reward based on entropy. 
 
 
